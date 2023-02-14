@@ -1,1 +1,1 @@
-# lighthouse-data-notes
+# Jagvir's Notes
